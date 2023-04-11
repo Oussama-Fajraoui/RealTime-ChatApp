@@ -19,8 +19,9 @@ To create an advanced chat app with ReactJS, Nodejs and chatengine.io
 
 ## Screenshot
 
+<p align="center">
 <img src="https://i.postimg.cc/KY3mmnXQ/Screenshot-2023-04-11-132502.png" alt="" />
-
+</p>
 
 ### Built with
 
