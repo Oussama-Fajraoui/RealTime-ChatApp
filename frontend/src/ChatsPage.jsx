@@ -1,9 +1,4 @@
-import React from 'react'
-
 const ChatsPage = () => {
-  return (
-    <div>ChatsPage</div>
-  )
-}
-
-export default ChatsPage
+    return <div className="background">chats...</div>;
+  };
+  export default ChatsPage;
